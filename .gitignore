@@ -1,0 +1,21 @@
+# Generic
+*.csproj
+*.sln
+10 Things.txt
+
+# Builds
+Build
+
+# Unity data files
+Unity/UnityPackageManager
+Unity/Assets/Plugins
+Unity/Assets/UnityAds
+Unity/ProjectSettings
+Unity/Library
+Unity/Temp
+Unity/Logs
+Unity/obj
+Unity/Packages
+Unity/UserSettings
+Unity/.vsconfig
+*.meta
