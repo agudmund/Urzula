@@ -22,3 +22,10 @@ Each of us has 7 pieces (starting off the board).
 Roll 4 tetrahedral dice → move 0–4 spaces.
 Enter pieces onto your starting square, race along the shared middle path (captures happen there!), land on a rosette for an extra roll + safety.
 Exact roll to bear pieces off the end. First to get all 7 home wins!
+
+Clean the architecture (separate pure game logic from GUI — the rules engine stays untouched).
+Give it the royal treatment: load our exact British Museum board image as the stunning background.
+Turn the 20 squares into proper clickable zones (rosettes glowing, safe zones protected).
+Add gorgeous red & green piece graphics (we already have the assets in Images/).
+Hook up the tetrahedral dice rolls with beautiful animated dice.
+Make pieces draggable or clickable with proper movement rules.
