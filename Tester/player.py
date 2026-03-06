@@ -1,4 +1,5 @@
-import pygame
+from PySide6.QtGui import QPixmap, QColor
+
 
 class Player:
     def __init__(self, name, color):
@@ -6,9 +7,8 @@ class Player:
         self.color = color  # kept for future fun
         self.pieces = [-1] * 7
 
-        # Load the exact kawaii voxel piece we generated!
         player_key = "player1" if "Love" in name or "Sweet" in name else "player2"
-        self.piece_image = pygame.image.load(f'assets/images/pieces/{player_key}_piece.png').convert_alpha()
+        self.piece_image = QPixmap(f'assets/images/pieces/{player_key}_piece.png')
 
     def all_pieces_home(self):
         return all(pos >= 20 for pos in self.pieces)
@@ -26,16 +26,20 @@ class Player:
         if 0 <= piece_index < 7:
             self.pieces[piece_index] = new_pos
 
-    def draw(self, screen, board, tile_size):
-        # On-board pieces — now using real sprite!
+    def draw(self, painter, board, tile_size):
+        # On-board pieces — use QPixmap if available
         for idx, pos in enumerate(self.pieces):
             if 0 <= pos < 20:
                 base_x, base_y = board.positions[pos]
                 off_x = (idx % 3 - 1) * 6
                 off_y = (idx % 2) * -5
                 piece_size = tile_size - 24
-                scaled = pygame.transform.scale(self.piece_image, (piece_size, piece_size))
-                screen.blit(scaled, (base_x + 12 + off_x, base_y + 12 + off_y))
+                if not self.piece_image.isNull():
+                    scaled = self.piece_image.scaled(piece_size, piece_size)
+                    painter.drawPixmap(base_x + 12 + off_x, base_y + 12 + off_y, scaled)
+                else:
+                    painter.setBrush(QColor(*self.color))
+                    painter.drawEllipse(base_x + 12 + off_x, base_y + 12 + off_y, piece_size, piece_size)
 
         # Reserve pieces — cute stacked sprites
         base_x = 55
@@ -44,5 +48,9 @@ class Player:
         for i in range(remaining):
             x = base_x + (i % 3) * 22
             y = base_y + (i // 3) * 22
-            small = pygame.transform.scale(self.piece_image, (38, 38))
-            screen.blit(small, (x, y))
+            if not self.piece_image.isNull():
+                small = self.piece_image.scaled(38, 38)
+                painter.drawPixmap(x, y, small)
+            else:
+                painter.setBrush(QColor(*self.color))
+                painter.drawEllipse(x, y, 38, 38)
