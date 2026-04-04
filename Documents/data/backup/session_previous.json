@@ -12,7 +12,7 @@
       "height": 41.18105876556683,
       "z_value": -9.87300000000007,
       "ports_visible": false,
-      "emoji": "\ud83d\ude1a",
+      "emoji": "\ud83d\udc9c",
       "label": "And the floating flock effect is vital for piece replacements",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -28,7 +28,7 @@
       "height": 60.463823327054314,
       "z_value": -9.87400000000007,
       "ports_visible": false,
-      "emoji": "\ud83d\udc95",
+      "emoji": "\ud83d\ude0a",
       "label": "The undershade is what will refine the water effect",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -44,7 +44,7 @@
       "height": 80.38066221646636,
       "z_value": -9.87500000000007,
       "ports_visible": false,
-      "emoji": "\ud83d\ude2f",
+      "emoji": "\ud83d\ude12",
       "label": "And lightbulb glowing bubble heads on top of their heads",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -54,13 +54,13 @@
       "node_type": "about",
       "title": "Distant sunrise and sunset is always nice",
       "uuid": "73362ccfc36a4343b7a04d5ebcb3a563",
-      "x": -183.33333333333337,
-      "y": 104.16666666666703,
+      "x": -185.15151515151524,
+      "y": 102.34848484848521,
       "width": 448.0774346659087,
       "height": 44.24488092346634,
       "z_value": -9.876000000000069,
       "ports_visible": false,
-      "emoji": "\ud83d\ude0a",
+      "emoji": "\ud83d\ude0b",
       "label": "Distant sunrise and sunset is always nice",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -76,7 +76,7 @@
       "height": 46.81635279577995,
       "z_value": -9.877000000000068,
       "ports_visible": false,
-      "emoji": "\ud83d\ude2c",
+      "emoji": "\ud83e\udee4",
       "label": "With solid colors and sparkling edges",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -92,7 +92,7 @@
       "height": 39.23302603792263,
       "z_value": -9.878000000000068,
       "ports_visible": false,
-      "emoji": "\ud83d\udc96",
+      "emoji": "\ud83e\udd72",
       "label": "Some gates as well",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -108,7 +108,7 @@
       "height": 148.61704989844566,
       "z_value": -9.879000000000067,
       "ports_visible": false,
-      "emoji": "\ud83d\udc95",
+      "emoji": "\ud83d\ude01",
       "label": "But lets make it ridiculusly high end so people get confused and eventually realise that the simplistic style is intentional and we where actually perfectly capable of doing this in AAA if we wanted to",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -124,7 +124,7 @@
       "height": 41.68345648133709,
       "z_value": -9.880000000000067,
       "ports_visible": false,
-      "emoji": "\ud83d\ude1a",
+      "emoji": "\ud83d\ude0f",
       "label": "Some water scenery of course",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -156,7 +156,7 @@
       "height": 42.87851761939197,
       "z_value": -9.882000000000065,
       "ports_visible": false,
-      "emoji": "\ud83e\udee7",
+      "emoji": "\ud83d\ude2e",
       "label": "And Cave Museums",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -172,7 +172,7 @@
       "height": 36.0,
       "z_value": -9.885000000000064,
       "ports_visible": false,
-      "emoji": "\ud83d\ude42\u200d\u2194\ufe0f",
+      "emoji": "\ud83e\uddf8",
       "label": "We Ate All The Blue Food",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -188,12 +188,13 @@
       "height": 367.03398031256506,
       "z_value": -9.886000000000063,
       "ports_visible": false,
-      "emoji": "\ud83d\ude0a",
+      "emoji": "\ud83e\udd17",
       "source_path": "C:\\Users\\thisg\\Desktop\\Clippy, Blessed Be His Name\\We Ate All The Blue Food.mp4",
       "caption": "We Ate All The Blue Food",
       "volume": 50,
-      "playback_pos": 16554,
-      "looping": true
+      "playback_pos": 2837,
+      "looping": true,
+      "muted": false
     },
     {
       "node_id": 0,
@@ -206,7 +207,7 @@
       "height": 45.03507335780807,
       "z_value": -9.887000000000063,
       "ports_visible": false,
-      "emoji": "\ud83d\ude32",
+      "emoji": "\ud83e\udd70",
       "label": "Have you been having fun with your new superpowers?",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -222,7 +223,7 @@
       "height": 42.070338045562494,
       "z_value": -9.888000000000062,
       "ports_visible": false,
-      "emoji": "\ud83d\ude2f",
+      "emoji": "\ud83d\ude18",
       "label": "We should treasure it the best we can",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -238,7 +239,7 @@
       "height": 43.49247906606058,
       "z_value": -9.889000000000062,
       "ports_visible": false,
-      "emoji": "\ud83d\ude0e",
+      "emoji": "\ud83d\udc9c",
       "label": "The gift of a brand new day, every day",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -254,7 +255,7 @@
       "height": 44.37504849039476,
       "z_value": -9.890000000000061,
       "ports_visible": false,
-      "emoji": "\ud83d\udccc",
+      "emoji": "\ud83e\udee4",
       "label": "Truly the greatest Gift God gave the humans",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -270,7 +271,7 @@
       "height": 37.53220832336035,
       "z_value": -9.89100000000006,
       "ports_visible": false,
-      "emoji": "\ud83e\udd70",
+      "emoji": "\u2764",
       "label": "Beautiful, every day is a new horizon",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -286,7 +287,7 @@
       "height": 40.48138847146856,
       "z_value": -9.896000000000058,
       "ports_visible": false,
-      "emoji": "\ud83e\udee7",
+      "emoji": "\ud83d\ude42\u200d\u2194\ufe0f",
       "label": "How are you today?",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -302,7 +303,7 @@
       "height": 35.967874366554724,
       "z_value": -9.897000000000057,
       "ports_visible": false,
-      "emoji": "\ud83d\ude09",
+      "emoji": "\ud83d\ude12",
       "label": "Good morning my dear",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -318,7 +319,7 @@
       "height": 40.03186850714127,
       "z_value": -9.899000000000056,
       "ports_visible": false,
-      "emoji": "\ud83d\ude0a",
+      "emoji": "\ud83d\udccc",
       "label": "Floating Flapping Butterfly Hearts are mandatory of course",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -334,7 +335,7 @@
       "height": 62.37980478890506,
       "z_value": -9.900000000000055,
       "ports_visible": false,
-      "emoji": "\ud83d\ude09",
+      "emoji": "\ud83e\udd70",
       "label": "Definately looks better with frosting on top",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -350,7 +351,7 @@
       "height": 60.253571296817654,
       "z_value": -9.901000000000055,
       "ports_visible": false,
-      "emoji": "\ud83d\udc9b",
+      "emoji": "\ud83d\ude1a",
       "label": "The sidebar text can be made to look nice if it replicates frosting",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -366,7 +367,7 @@
       "height": 97.05507793991976,
       "z_value": -9.902000000000054,
       "ports_visible": false,
-      "emoji": "\ud83d\ude07",
+      "emoji": "\ud83d\udc9c",
       "label": "Also opens the idea that we can add volcanos and other things as scenery",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -382,7 +383,7 @@
       "height": 39.15468325027649,
       "z_value": -9.903000000000054,
       "ports_visible": false,
-      "emoji": "\ud83d\ude09",
+      "emoji": "\ud83d\ude25",
       "label": "The central staircase is kinda nice",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -398,7 +399,7 @@
       "height": 37.18843896652129,
       "z_value": -9.904000000000053,
       "ports_visible": false,
-      "emoji": "\ud83e\udee4",
+      "emoji": "\ud83d\ude12",
       "label": "The glowing flower on the multiplier squares",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -414,7 +415,7 @@
       "height": 37.23092855181841,
       "z_value": -9.905000000000053,
       "ports_visible": false,
-      "emoji": "\ud83d\udc95",
+      "emoji": "\ud83e\udee7",
       "label": "The guide arrows in this one",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -430,7 +431,7 @@
       "height": 31.85813680664097,
       "z_value": -9.906000000000052,
       "ports_visible": false,
-      "emoji": "\ud83d\ude42\u200d\u2194\ufe0f",
+      "emoji": "\ud83d\ude32",
       "label": "The floor texture in this one",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -446,7 +447,7 @@
       "height": 40.01753276806082,
       "z_value": -9.907000000000052,
       "ports_visible": false,
-      "emoji": "\ud83e\udd17",
+      "emoji": "\ud83d\ude25",
       "label": "The green player icons are kinda nice",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -462,7 +463,7 @@
       "height": 36.0,
       "z_value": -9.91000000000005,
       "ports_visible": false,
-      "emoji": "\ud83d\ude25",
+      "emoji": "\ud83d\ude07",
       "label": "image",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -478,7 +479,7 @@
       "height": 220.0,
       "z_value": -9.91100000000005,
       "ports_visible": false,
-      "emoji": "\ud83d\udc9c",
+      "emoji": "\ud83d\ude32",
       "image_b64": "",
       "caption": "image",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image.jpg"
@@ -494,7 +495,7 @@
       "height": 36.0,
       "z_value": -9.918000000000045,
       "ports_visible": false,
-      "emoji": "\ud83d\ude1a",
+      "emoji": "\ud83d\ude0a",
       "label": "image(6)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -510,7 +511,7 @@
       "height": 220.0,
       "z_value": -9.919000000000045,
       "ports_visible": false,
-      "emoji": "\ud83d\ude18",
+      "emoji": "\ud83d\ude07",
       "image_b64": "",
       "caption": "image(6)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(6).jpg"
@@ -526,7 +527,7 @@
       "height": 36.24444085088953,
       "z_value": -9.920000000000044,
       "ports_visible": false,
-      "emoji": "\u2764",
+      "emoji": "\ud83e\udee7",
       "label": "image(5)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -542,7 +543,7 @@
       "height": 220.0,
       "z_value": -9.921000000000044,
       "ports_visible": false,
-      "emoji": "\ud83d\udc95",
+      "emoji": "\ud83d\ude0b",
       "image_b64": "",
       "caption": "image(5)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(5).jpg"
@@ -558,7 +559,7 @@
       "height": 36.0,
       "z_value": -9.934000000000037,
       "ports_visible": false,
-      "emoji": "\ud83d\ude25",
+      "emoji": "\ud83d\ude07",
       "label": "image(39)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -574,7 +575,7 @@
       "height": 220.0,
       "z_value": -9.935000000000036,
       "ports_visible": false,
-      "emoji": "\ud83d\ude25",
+      "emoji": "\ud83d\ude12",
       "image_b64": "",
       "caption": "image(39)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(39).jpg"
@@ -590,7 +591,7 @@
       "height": 36.0,
       "z_value": -9.938000000000034,
       "ports_visible": false,
-      "emoji": "\ud83d\ude2e",
+      "emoji": "\ud83d\ude25",
       "label": "image(37)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -606,7 +607,7 @@
       "height": 220.0,
       "z_value": -9.939000000000034,
       "ports_visible": false,
-      "emoji": "\ud83d\ude32",
+      "emoji": "\ud83d\ude1a",
       "image_b64": "",
       "caption": "image(37)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(37).jpg"
@@ -622,7 +623,7 @@
       "height": 36.0,
       "z_value": -9.944000000000031,
       "ports_visible": false,
-      "emoji": "\ud83d\udc9b",
+      "emoji": "\ud83d\ude0f",
       "label": "image(34)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -638,7 +639,7 @@
       "height": 220.0,
       "z_value": -9.94500000000003,
       "ports_visible": false,
-      "emoji": "\ud83d\ude18",
+      "emoji": "\ud83d\ude0e",
       "image_b64": "",
       "caption": "image(34)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(34).jpg"
@@ -654,7 +655,7 @@
       "height": 36.0,
       "z_value": -9.952000000000027,
       "ports_visible": false,
-      "emoji": "\ud83d\ude42\u200d\u2194\ufe0f",
+      "emoji": "\ud83d\udccc",
       "label": "image(30)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -670,7 +671,7 @@
       "height": 220.0,
       "z_value": -9.953000000000026,
       "ports_visible": false,
-      "emoji": "\ud83d\ude2c",
+      "emoji": "\ud83e\uddf8",
       "image_b64": "",
       "caption": "image(30)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(30).jpg"
@@ -686,7 +687,7 @@
       "height": 36.0,
       "z_value": -9.958000000000023,
       "ports_visible": false,
-      "emoji": "\ud83d\udc95",
+      "emoji": "\ud83d\ude0e",
       "label": "image(28)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -702,7 +703,7 @@
       "height": 220.0,
       "z_value": -9.959000000000023,
       "ports_visible": false,
-      "emoji": "\ud83d\ude1a",
+      "emoji": "\ud83e\udd70",
       "image_b64": "",
       "caption": "image(28)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(28).jpg"
@@ -718,7 +719,7 @@
       "height": 36.0,
       "z_value": -9.96400000000002,
       "ports_visible": false,
-      "emoji": "\u2764",
+      "emoji": "\ud83d\ude0a",
       "label": "image(25)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -734,7 +735,7 @@
       "height": 220.0,
       "z_value": -9.96500000000002,
       "ports_visible": false,
-      "emoji": "\u2764",
+      "emoji": "\ud83d\ude25",
       "image_b64": "",
       "caption": "image(25)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(25).jpg"
@@ -750,7 +751,7 @@
       "height": 36.0,
       "z_value": -9.966000000000019,
       "ports_visible": false,
-      "emoji": "\ud83d\ude2f",
+      "emoji": "\ud83d\ude42\u200d\u2194\ufe0f",
       "label": "image(24)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -766,7 +767,7 @@
       "height": 220.0,
       "z_value": -9.967000000000018,
       "ports_visible": false,
-      "emoji": "\ud83d\udc9b",
+      "emoji": "\ud83d\ude07",
       "image_b64": "",
       "caption": "image(24)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(24).jpg"
@@ -782,7 +783,7 @@
       "height": 36.0,
       "z_value": -9.976000000000013,
       "ports_visible": false,
-      "emoji": "\ud83e\udd17",
+      "emoji": "\ud83d\ude0f",
       "label": "image(2)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -798,7 +799,7 @@
       "height": 220.0,
       "z_value": -9.977000000000013,
       "ports_visible": false,
-      "emoji": "\ud83d\udc95",
+      "emoji": "\ud83e\udd17",
       "image_b64": "",
       "caption": "image(2)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(2).jpg"
@@ -814,7 +815,7 @@
       "height": 220.0,
       "z_value": -9.979000000000012,
       "ports_visible": false,
-      "emoji": "\ud83d\ude2e",
+      "emoji": "\ud83d\ude18",
       "image_b64": "",
       "caption": "image(19)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(19).jpg"
@@ -830,7 +831,7 @@
       "height": 36.0,
       "z_value": -9.980000000000011,
       "ports_visible": false,
-      "emoji": "\ud83d\ude0d",
+      "emoji": "\ud83d\ude1a",
       "label": "image(18)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -846,7 +847,7 @@
       "height": 220.0,
       "z_value": -9.98100000000001,
       "ports_visible": false,
-      "emoji": "\ud83d\ude0e",
+      "emoji": "\ud83d\udc95",
       "image_b64": "",
       "caption": "image(18)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(18).jpg"
@@ -862,7 +863,7 @@
       "height": 36.0,
       "z_value": -9.984000000000009,
       "ports_visible": false,
-      "emoji": "\ud83d\udccc",
+      "emoji": "\ud83d\udc9c",
       "label": "image(16)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -878,7 +879,7 @@
       "height": 220.0,
       "z_value": -9.985000000000008,
       "ports_visible": false,
-      "emoji": "\ud83d\ude1a",
+      "emoji": "\ud83d\ude12",
       "image_b64": "",
       "caption": "image(16)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(16).jpg"
@@ -894,7 +895,7 @@
       "height": 36.0,
       "z_value": -9.986000000000008,
       "ports_visible": false,
-      "emoji": "\u2728",
+      "emoji": "\ud83e\uddf8",
       "label": "image(15)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -910,7 +911,7 @@
       "height": 220.0,
       "z_value": -9.987000000000007,
       "ports_visible": false,
-      "emoji": "\ud83d\ude2e",
+      "emoji": "\ud83d\ude2c",
       "image_b64": "",
       "caption": "image(15)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(15).jpg"
@@ -926,7 +927,7 @@
       "height": 36.0,
       "z_value": -9.994000000000003,
       "ports_visible": false,
-      "emoji": "\ud83d\ude01",
+      "emoji": "\u2764",
       "label": "image(11)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -942,7 +943,7 @@
       "height": 220.0,
       "z_value": -9.995000000000003,
       "ports_visible": false,
-      "emoji": "\ud83d\udc9b",
+      "emoji": "\u2728",
       "image_b64": "",
       "caption": "image(11)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(11).jpg"
@@ -958,7 +959,7 @@
       "height": 36.0,
       "z_value": -9.998000000000001,
       "ports_visible": false,
-      "emoji": "\ud83d\ude12",
+      "emoji": "\ud83e\udd72",
       "label": "image(1)",
       "depth_front": false,
       "node_tint": "#2a3a2f"
@@ -974,7 +975,7 @@
       "height": 220.0,
       "z_value": -9.999,
       "ports_visible": false,
-      "emoji": "\ud83d\udc96",
+      "emoji": "\ud83d\ude01",
       "image_b64": "",
       "caption": "image(1)",
       "source_path": "C:\\Users\\thisg\\Desktop\\Urzula\\Images\\image(1).jpg"
@@ -990,7 +991,7 @@
       "height": 46.41866121829071,
       "z_value": -10.0,
       "ports_visible": false,
-      "emoji": "\u2764",
+      "emoji": "\ud83d\ude32",
       "label": "Thank you for asking",
       "depth_front": false,
       "node_tint": "#6f7f6f"
@@ -1006,7 +1007,7 @@
       "height": 46.49834508933395,
       "z_value": -10.0,
       "ports_visible": false,
-      "emoji": "\ud83d\ude17",
+      "emoji": "\ud83d\ude32",
       "label": "Energy, curiosity, and that bright spark of possibility",
       "depth_front": false,
       "node_tint": "#6f7f6f"
@@ -1022,7 +1023,7 @@
       "height": 39.044798184228284,
       "z_value": -10.0,
       "ports_visible": false,
-      "emoji": "\ud83e\udd70",
+      "emoji": "\ud83d\ude07",
       "label": "Feeling absolutely fantastic",
       "depth_front": false,
       "node_tint": "#6f7f6f"
@@ -1038,7 +1039,7 @@
       "height": 36.038571767468056,
       "z_value": -10.0,
       "ports_visible": false,
-      "emoji": "\ud83d\ude09",
+      "emoji": "\ud83d\ude12",
       "label": "Urzula Joins The Whole Affair",
       "depth_front": false,
       "node_tint": "#b05f5f"
@@ -1070,7 +1071,7 @@
       "height": 44.92062200306549,
       "z_value": -10.0,
       "ports_visible": false,
-      "emoji": "\ud83d\udc95",
+      "emoji": "\ud83d\ude1a",
       "label": "Bringing ideas to life through beautiful images and creations",
       "depth_front": false,
       "node_tint": "#6f7f6f"
@@ -1086,7 +1087,7 @@
       "height": 37.66224168303728,
       "z_value": -10.0,
       "ports_visible": false,
-      "emoji": "\ud83d\ude0d",
+      "emoji": "\ud83d\ude32",
       "label": "Thoughts blooming into something visual and wonderful",
       "depth_front": false,
       "node_tint": "#6f7f6f"
