@@ -2665,7 +2665,7 @@
       "source_path": "C:\\Users\\thisg\\Desktop\\Clippy, Blessed Be His Name\\We Ate All The Blue Food.mp4",
       "caption": "We Ate All The Blue Food",
       "volume": 50,
-      "playback_pos": 2538,
+      "playback_pos": 11754,
       "looping": true,
       "muted": false,
       "show_border": false,
@@ -4446,9 +4446,9 @@
     }
   ],
   "viewport": {
-    "camera_x": 4800.895223967028,
-    "camera_y": -2098.824142454653,
-    "camera_zoom": 0.7575670432971271
+    "camera_x": -861.475583180767,
+    "camera_y": -705.2494411531667,
+    "camera_zoom": 0.6721026240374662
   },
-  "checksum": "26bb2d75c7052038"
+  "checksum": "1c6591a619af04fe"
 }
