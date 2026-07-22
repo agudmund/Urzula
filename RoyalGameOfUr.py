@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+-Urzula - RoyalGameOfUr.py terminal Royal Game of Ur, you versus Grok
+-The last of the tetrahedral dice tumbled across the terminal and the oldest game in the world played on, For Enjoying
+-Built using a single shared braincell by Yours Truly and various Intelligences
+"""
+
 import random
 
 class RoyalGameOfUr:

@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+-Urzula - Tester/board.py the British Museum board, drawn and clickable
+-The last of the boards borrowed its face from the British Museum and laid its rosettes out for the taking, For Enjoying
+-Built using a single shared braincell by Yours Truly and various Intelligences
+"""
+
 from PySide6.QtGui import QPixmap, QFont, QColor, QPen
 from PySide6.QtCore import QRect, Qt, QPoint
 from PySide6.QtGui import QPolygon

@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+-Urzula - Tester/main.py Qt shell for the kawaii Ur table
+-The last of the windows opened onto a four-thousand-year-old table set for two, For Enjoying
+-Built using a single shared braincell by Yours Truly and various Intelligences
+"""
+
 import sys
 import random
 from PySide6.QtWidgets import QApplication, QMainWindow, QWidget

@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+-Urzula - Tester/player.py a player, their colour, and their seven pieces
+-The last of the players took their seven pieces in hand and trusted the dice with the rest, For Enjoying
+-Built using a single shared braincell by Yours Truly and various Intelligences
+"""
+
 from PySide6.QtGui import QPixmap, QColor
 
 

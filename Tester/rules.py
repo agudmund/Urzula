@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+-Urzula - Tester/rules.py the Gentle Finkel Rules, kept kindly
+-The last of the rulekeepers held Finkel's law with a gentle hand, and every capture stayed kind, For Enjoying
+-Built using a single shared braincell by Yours Truly and various Intelligences
+"""
+
 class Rules:
     """
     Gentle Finkel Rules for Urzula 💕
